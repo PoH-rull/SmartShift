@@ -114,4 +114,4 @@ For issues or questions, please create an issue in the repository.
 
 ---
 
-Made with ❤️ for shift workers everywhere
+Made with ❤️ for shift workers everywhere enjoy
